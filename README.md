@@ -3,10 +3,11 @@ Mcperturb is a new multicollinearity diagnostic package. It uses small perturbat
 This mcpertrub github page includes the following documents:
 
 1.	Data (Data.zip): The dataset and detailed notes about this dataset. 
-2.	Mcperturb R code files (mcperturb.R.code.zip): It includes 18 R functions and one R script. 
+2.	Mcperturb R code files (mcperturb.v1.0.zip): It includes 18 R functions and one R script. 
     Running this R script file can generate all figures and tables presented in the manuscript. 
-3.	R Documentation or user manual (RDocumentation.pdf). This documentation includes detailed 
+3.	R Documentation or user manual (R.Documentation.v1.0.pdf). This documentation includes detailed 
     document for each R function, example code, and output results. 
+4.  Preproducible R scripts (Reproducible.R.Script.v1.0.R) to generate figures and tables presented in the manuscript and supplemental file
 
 Contact:  Shuying Sun (ssun5211@yahoo.com or ssun@txstate.edu) 
 
