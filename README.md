@@ -8,6 +8,6 @@ This mcpertrub github page includes the following documents:
     document for each R function, example code, and output results. 
 4.  Preproducible R scripts (Reproducible.R.Script.v1.0.R) to generate figures and tables presented in the manuscript and supplemental file
 
-Contact:  Shuying Sun (ssun5211@yahoo.com or ssun@txstate.edu) 
+Contact:  Dr. Shuying Sun (ssun5211@yahoo.com or ssun@txstate.edu) 
 
 Access to the published manuscript is in progress.
