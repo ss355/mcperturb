@@ -1,4 +1,4 @@
-Mcperturb is a new multicollinearity diagnostic package. It uses small perturbation of noise to identify multicollinearity among continuous regressors of a multiple linear regression model. This package is developed using the statistical software package R. 
+Mcperturb is a new multicollinearity diagnostic method. It uses small perturbation of noise to identify multicollinearity among continuous regressors of a multiple linear regression model. This package is developed using the statistical software package R. 
 
 This mcpertrub github page includes the following documents:
 
